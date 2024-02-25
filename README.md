@@ -22,7 +22,6 @@ Used domain knowledge to identify relevant features for backorder prediction.
 
 ### Model development and evaluation:
 Implemented a Random Forest model achieving 89% precision and 46% recall in identifying backorder-prone orders.
-Evaluated model performance using precision, recall, and other relevant metrics (e.g., F1-score, AUC-ROC).
 Compared the Random Forest model with other algorithms for better understanding.
 
 ### Analysis and insights:
